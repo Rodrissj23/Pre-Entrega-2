@@ -1,0 +1,18 @@
+body{
+    background-color: #000B;
+}
+h1{
+    text-align: center;
+    margin-top:300px ;
+    color: #000f;
+}
+div{
+    text-align: center;
+}
+button{
+    background-color: #0002;
+    margin-top: 10px;
+    padding: 12px 24px;
+    color: #000f;
+    font-size: 16px;
+}
